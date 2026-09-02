@@ -72,7 +72,7 @@
 
 # ⚙️ Automated Orchestration (Databricks Workflows):
 
-# ![Workflow DAG](assets/workflow_dag.png)
+# ![Workflow DAG](assets/workflow_dag.png.png)
 
 # The Medallion pipeline is automated using a multi-task Databricks Workflow Job (DAG). Tasks enforce sequential execution and fault containment:
 
@@ -96,7 +96,7 @@
 
 # 📊 Operations Monitor (Lakeview Dashboard):
 
-# ![Operations Dashboard](assets/dashboard_preview.png)
+# ![Operations Dashboard](assets/dashboard_preview.png.png)
 
 # The aggregated Gold and Silver tables feed a production Operations Monitor:
 
