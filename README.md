@@ -72,7 +72,7 @@
 
 # ⚙️ Automated Orchestration (Databricks Workflows):
 
-# ![Workflow DAG](assets/workflow_dag.png)
+# !\[Workflow DAG](assets/workflow\_dag.png)
 
 # The Medallion pipeline is automated using a multi-task Databricks Workflow Job (DAG). Tasks enforce sequential execution and fault containment:
 
